@@ -1,1 +1,2 @@
 # Proyecto_sql_Hotel_Data_Andino-AAVV
+En este proyecto trabajamos con SQL en Databricks para limpiar, organizar y analizar la información de las reservas, utilizando consultas y diferentes tipos de JOIN. También analizamos las cancelaciones para identificar qué factores influyen en ellas y conocer como le esta yendo al Hotel.
